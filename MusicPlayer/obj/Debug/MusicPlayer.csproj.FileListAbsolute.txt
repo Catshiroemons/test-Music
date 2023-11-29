@@ -1,0 +1,68 @@
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\bin\Debug\taglib-sharp.dll
+D:\Study\Cau truc du lieu va giai thuat\Project\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\bin\Debug\taglib-sharp.dll
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\Arika\Documents\Test\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\bin\Debug\taglib-sharp.dll
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Study\Cau truc du lieu va giai thuat\Project lam lai\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\bin\Debug\taglib-sharp.dll
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Arika\Documents\New folder (2)\New folder\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
